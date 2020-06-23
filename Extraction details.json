@@ -1,0 +1,49 @@
+[{
+	"requestId": "9118be94-8481-418e-8b52-926bfeb000f2",
+	"runStartDate": "2020-04-24 18:47:02",
+	"lastUpdateDate": "2020-04-24 18:47:04",
+	"runStatus": "Successful",
+	"completionPercent": 100,
+	"statsSummary": {
+		"discoveredDS": 71,
+		"onboarded": 0,
+		"renamedOrMoved": 0,
+		"reposNotFound": 0,
+		"ignoredDS": 0,
+		"totalDS": 71
+	},
+	"failedRequestId": null,
+	"errorCode": null
+}, {
+	"requestId": "72b26677-6d8b-4759-ae79-01a7972d0c1d",
+	"runStartDate": "2020-04-24 18:41:02",
+	"lastUpdateDate": "2020-04-24 18:41:03",
+	"runStatus": "Failed",
+	"completionPercent": null,
+	"statsSummary": {
+		"discoveredDS": null,
+		"onboarded": null,
+		"renamedOrMoved": null,
+		"reposNotFound": null,
+		"ignoredDS": null,
+		"totalDS": null
+	},
+	"failedRequestId": "72b26677-6d8b-4759-ae79-01a7972d0c1d",
+	"errorCode": "AE0001"
+}, {
+	"requestId": "3f71da13-4eac-4d95-957f-80c1189cefec",
+	"runStartDate": "2020-04-24 18:12:01",
+	"lastUpdateDate": "2020-04-24 18:12:02",
+	"runStatus": "Successful",
+	"completionPercent": 100,
+	"statsSummary": {
+		"discoveredDS": 5,
+		"onboarded": 66,
+		"renamedOrMoved": 0,
+		"reposNotFound": 0,
+		"ignoredDS": 0,
+		"totalDS": 71
+	},
+	"failedRequestId": null,
+	"errorCode": null
+}]
